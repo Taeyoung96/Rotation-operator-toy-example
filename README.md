@@ -1,2 +1,1 @@
-# Exponential-map-toy-example
-Implementation of SO(3)
+# Rotation operator toy example
