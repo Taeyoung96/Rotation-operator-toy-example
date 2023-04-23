@@ -1,6 +1,6 @@
 # Rotation operator toy example
 
-This simple project implements rotating a bunny point cloud by randomly generating a rotation angle and unit vector.  
+This project implements rotating a point cloud by randomly generating a rotation angle and unit vector.  
 I have implemented a rotation matrix and a quaternion, respectively, and visualized the results.  
 
 ## Preliminary knowledge  
