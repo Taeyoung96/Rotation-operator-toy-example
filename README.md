@@ -47,3 +47,7 @@ python main.py --input_path ./bunny.ply
 ### Quaternion result
 
 <p align="center"><img src="https://user-images.githubusercontent.com/41863759/233828660-40535a1c-438c-4281-ab03-6e5194a735d6.JPG" width = "500" ></p>  
+
+## Reference  
+- Sola, Joan. "Quaternion kinematics for the error-state Kalman filter." arXiv preprint arXiv:1711.02508 (2017).  
+- Tricks to do annotation : https://github.com/isl-org/Open3D/issues/2
