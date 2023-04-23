@@ -42,5 +42,8 @@ python main.py --input_path ./bunny.ply
 
 ### Rotation matrix result  
 
+<p align="center"><img src="https://user-images.githubusercontent.com/41863759/233828656-ebfcb1e1-4017-43e0-889a-7d8263faf43b.JPG" width = "500" ></p>  
 
 ### Quaternion result
+
+<p align="center"><img src="https://user-images.githubusercontent.com/41863759/233828660-40535a1c-438c-4281-ab03-6e5194a735d6.JPG" width = "500" ></p>  
